@@ -1,6 +1,6 @@
 # SGVCut
 An visualized tool for edge partitioning graphs.
-Details in paper "SGVCut: A Vertex-Cut Partitioning Tool for RandomWalks-based Computations over Social Network graphs".
+Details in paper "SGVCut: A Vertex-Cut Partitioning Tool for RandomWalks-based Computations over Social Network graphs", SSDBM2017.
 
 Notice:
 Implemented in Python 2.7 and some dependent libraries are needed:
