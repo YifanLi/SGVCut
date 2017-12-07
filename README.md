@@ -18,4 +18,9 @@ for locating the vertices/edges during graph drawing:
 download the source package from official website, then install it.
 
 
+-------
+Usage:
+=> python GraphPartitioning.py
+
+
 
